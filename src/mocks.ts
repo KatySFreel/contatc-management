@@ -5,8 +5,7 @@ const users: User[] = [
     id: 0,
     name: 'Анастасия Иванова',
     phone: '+7(999)123-45-67',
-    email: 'anastasiaivanova@mail.ru',
-    avatar: 'avatar-default.jpg'
+    email: 'anastasiaivanova@mail.ru'
   },
   {
     id: 1,
@@ -19,15 +18,13 @@ const users: User[] = [
     id: 2,
     name: 'Мария Кузнецова',
     phone: '+7(999)345-67-89',
-    email: 'mariakuznetsova@mail.ru',
-    avatar: 'avatar-default.jpg'
+    email: 'mariakuznetsova@mail.ru'
   },
   {
     id: 3,
     name: 'Дмитрий Сидоров',
     phone: '+7(999)456-78-90',
-    email: 'dmitrysidorov@mail.ru',
-    avatar: 'avatar-default.jpg'
+    email: 'dmitrysidorov@mail.ru'
   },
   {
     id: 4,
@@ -89,22 +86,19 @@ const users: User[] = [
     id: 12,
     name: 'Вера Волкова',
     phone: '+7(999)345-67-89',
-    email: 'veravolkova@mail.ru',
-    avatar: 'avatar-default.jpg'
+    email: 'veravolkova@mail.ru'
   },
   {
     id: 13,
     name: 'Максим Орлов',
     phone: '+7(999)456-78-90',
-    email: 'maximorlov@mail.ru',
-    avatar: 'avatar-default.jpg'
+    email: 'maximorlov@mail.ru'
   },
   {
     id: 14,
     name: 'Светлана Зайцева',
     phone: '+7(999)567-89-01',
-    email: 'svetlanazaitseva@mail.ru',
-    avatar: 'avatar-default.jpg'
+    email: 'svetlanazaitseva@mail.ru'
   }
 ];
 

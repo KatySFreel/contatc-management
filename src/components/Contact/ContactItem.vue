@@ -2,7 +2,7 @@
 	<div class="contact-item">
 		<img
 			class="contact-item__avatar"
-			:src="contact.avatarLink ? contact.avatarLink : `/${contact.avatar}`"
+			:src="contact.avatarLink ?? 'avatar-default.jpg'"
 			:alt="contact.name"
 		/>
 
