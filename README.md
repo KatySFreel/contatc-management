@@ -1,7 +1,7 @@
 # contatc-management
 
 Дизайн проекта (сама делала) адаптируется под тему устройства
-![Image](https://github.com/KatySFreel/contatc-management/blob/main/desing%201.png)
+![Image](https://github.com/KatySFreel/contatc-management/blob/main/desing.png)
 
 Сам проект
 ![Image](https://github.com/KatySFreel/contatc-management/blob/main/Главная.png)
