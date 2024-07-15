@@ -1,5 +1,11 @@
 # contatc-management
 
+Дизайн проекта (сама делала)
+![Image](https://github.com/KatySFreel/contatc-management/blob/main/desing%201.png)
+
+Сам проект
+![Image](https://github.com/KatySFreel/contatc-management/blob/main/Главная.png)
+
 ## Project setup
 ```
 pnpm install
